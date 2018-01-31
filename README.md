@@ -1,3 +1,8 @@
+Uploaded are the R script for creating 4 plots, and the resulting PNG files, as requested by the assignment.
+Please note that all script files repeat the process of downloading the data, reading it into R, and processing it for easy use. This corresponds to steps 1 and 2, which may take a while. Therefore, **if you have run steps 1 and 2 once, it is recommended that you start from step 3 for the rest of the scripts, for your convenience.**
+
+
+Below are the original instructions of the assignment...
 ## Introduction
 
 This assignment uses data from
